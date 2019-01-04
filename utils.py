@@ -11,6 +11,9 @@ def getImages(images,metadata):
 	f.readline()
 	for line in f:
 		imagefilename = line.strip().split("\t")[1]
+		print(imagefilename)
+		im_path = os.path.join(images,imagefilename)
+		print(im_path)
 		input_img = cv2.imread(os.path.join(images,imagefilename))
 		input_img_resize=cv2.resize(input_img,(32,32))
 		img_data.append(input_img_resize)

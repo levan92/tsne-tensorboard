@@ -1,5 +1,9 @@
 # tf-tb-visualisation
 
+### Intro
+This repo is stolen and modified from [this github page](https://github.com/ayushidalmia/tsne-tensorboard-visualisation) for DH use.
+
+
 ### How to run
 This repository provides a starter code for using tensorboard via tensorflow for visualising embeddings
 

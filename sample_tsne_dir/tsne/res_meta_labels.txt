@@ -1,0 +1,13 @@
+label	image
+cats	cats/cat4.jpg
+cats	cats/cat3.jpg
+cats	cats/cat1.jpg
+cats	cats/cat2.jpg
+dogs	dogs/dog2.jpg
+dogs	dogs/dog4.jpg
+dogs	dogs/dog1.jpg
+dogs	dogs/dog3.jpg
+pooltable	pooltable/pooltable2.jpg
+pooltable	pooltable/pooltable4.jpg
+pooltable	pooltable/pooltable3.jpg
+pooltable	pooltable/pooltable1.jpg

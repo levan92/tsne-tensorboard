@@ -1,0 +1,10 @@
+model_checkpoint_path: "/home/dh/Workspace/pytorch_resnet/tsne_viz_dir/tsne/my-model.ckpt"
+embeddings {
+  tensor_name: "embedding:0"
+  metadata_path: "/home/dh/Workspace/pytorch_resnet/tsne_viz_dir/tsne/res_meta_labels.txt"
+  sprite {
+    image_path: "/home/dh/Workspace/pytorch_resnet/tsne_viz_dir/tsne/sprite.jpg"
+    single_image_dim: 32
+    single_image_dim: 32
+  }
+}

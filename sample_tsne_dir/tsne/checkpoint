@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/dh/Workspace/pytorch_resnet/tsne_viz_dir/tsne/my-model.ckpt"
+all_model_checkpoint_paths: "/home/dh/Workspace/pytorch_resnet/tsne_viz_dir/tsne/my-model.ckpt"
